@@ -2,14 +2,6 @@
   "name": "unb-libraries/drupal-builder",
   "description": "Libraries for building drupal instances for CargoDock",
   "type": "library",
-  "extra": {
-    "enable-patching": true,
-    "patches": {
-        "drupal-composer/drupal-scaffold": {
-            "Update CurlMulti code with Prefetcher.php from prestissimo": "https://github.com/Schnitzel/drupal-scaffold/commit/e53370c8c5d94e7e32eec1688532075e98109e55.diff"
-        }
-    }
-  },
   "require": {
     "composer/installers": "^1.6.0",
     "cweagans/composer-patches": "1.6.3",
