@@ -1,7 +1,7 @@
 {
   "name": "unb-libraries/drupal-builder",
   "description": "Libraries for building drupal instances for CargoDock",
-  "type": "library",
+  "type": "metapackage",
   "require": {
     "composer/installers": "^1.6.0",
     "cweagans/composer-patches": "1.6.3",
