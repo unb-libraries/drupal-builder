@@ -8,7 +8,7 @@
     "drupal-composer/drupal-scaffold": "~2.5.4",
     "drupal/console": "~1.8.0",
     "drush/drush": "^9.6@RC",
-    "twig/twig": "1.37.1",
+    "twig/twig": "<=1.37.1",
     "webflo/drupal-finder": "^1.1.0",
     "webmozart/path-util": "^2.3.0"
   },
