@@ -21,6 +21,7 @@
     "zaporylie/composer-drupal-optimizations": "^1.0"
   },
   "license": "MIT",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "UNB Libraries",
