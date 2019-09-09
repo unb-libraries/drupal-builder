@@ -2,14 +2,6 @@
   "name": "unb-libraries/drupal-builder",
   "description": "Libraries for building drupal instances for CargoDock",
   "type": "metapackage",
-  "extra": {
-    "enable-patching": true,
-    "patches": {
-        "drupal-composer/drupal-scaffold": {
-            "Fix prestissimo integration": "https://github.com/Schnitzel/drupal-scaffold/commit/e53370c8c5d94e7e32eec1688532075e98109e55.diff"
-        }
-    }
-  },
   "require": {
     "composer/installers": "^1.7.0",
     "cweagans/composer-patches": "1.6.7",
