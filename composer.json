@@ -3,13 +3,13 @@
   "description": "Libraries for building drupal instances for CargoDock",
   "type": "metapackage",
   "require": {
-    "composer/installers": "^1.7.0",
-    "cweagans/composer-patches": "1.6.3",
+    "composer/installers": "^1.8.0",
+    "cweagans/composer-patches": "1.6.7",
     "drupal-composer/drupal-scaffold": "~2.6.1",
-    "drush/drush": "^9.6",
+    "drush/drush": "^10.2",
     "webflo/drupal-finder": "^1.2.0",
     "webmozart/path-util": "^2.3.0",
-    "zaporylie/composer-drupal-optimizations": "^1.1.0"
+    "zaporylie/composer-drupal-optimizations": "^1.1.1"
   },
   "license": "MIT",
   "minimum-stability": "stable",
