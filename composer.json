@@ -3,7 +3,7 @@
   "description": "Libraries for building drupal instances for Dockworker",
   "type": "metapackage",
   "require": {
-    "composer/installers": "^1.9",
+    "composer/installers": "^2",
     "cweagans/composer-patches": "^1.7",
     "drupal/core-composer-scaffold": "^9.3",
     "drupal/core-recommended": "^9.3",
